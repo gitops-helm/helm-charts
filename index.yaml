@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ibm-cp4d-watson-machine-learning-instance:
+  - apiVersion: v2
+    appVersion: 4.0.9
+    created: "2022-07-01T15:47:43.503785-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 383f4cc877bf5d01440910c15663cdd3a97950e3ce20a0568358bbb3ad7f25e1
+    name: ibm-cp4d-watson-machine-learning-instance
+    type: application
+    urls:
+    - https://gitops-helm.github.io/helm-charts/ibm-cp4d-watson-machine-learning-instance-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-01T15:47:43.502726-03:00"
